@@ -1,0 +1,6 @@
+encoding: utf-8
+highlighter: rouge
+markdown: redcarpet
+baseurl: /ritasgeschichte
+exclude: ['README.md']
+permalink: pretty
