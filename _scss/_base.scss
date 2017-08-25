@@ -16,7 +16,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: $baseColor; }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -36,3 +36,13 @@ hr {
   margin-bottom: 3.5rem;
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
+
+::selection {
+  color: rgb(255, 255, 255);
+  background-color: $baseColor;
+}
+
+::-moz-selection {
+  color: rgb(255, 255, 255);
+  background-color: $baseColor;
+}

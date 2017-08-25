@@ -1,0 +1,12 @@
+img.red-star {
+  position: fixed;
+  top: 2rem;
+  left: 2rem;
+  width: 36px;
+  height: auto;
+  transition: transform .4s ease-in-out;
+}
+
+img.red-star:hover {
+  transform: rotate(72deg);
+}
