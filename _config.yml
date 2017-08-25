@@ -4,3 +4,5 @@ markdown: redcarpet
 baseurl: /ritasgeschichte
 exclude: ['README.md']
 permalink: pretty
+sass:
+  sass_dir: _scss
