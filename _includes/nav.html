@@ -1,2 +1,9 @@
-<p>1/5</p>
-<p>Weiter-></p>
+<nav>
+  <ul>
+    <li><a class="{% if page.url == '/kapitel/1_die-doppelte-geburt/' %}current{% endif %}" href="{{site.baseurl}}/kapitel/1_die-doppelte-geburt/">Kapitel 1</a></li>
+    <li><a class="{% if page.url == '/kapitel/2_das-erste-sonnenlicht/' %}current{% endif %}" href="{{site.baseurl}}/kapitel/2_das-erste-sonnenlicht/">Kapitel 2</a></li>
+    <li><a href="#">Kapitel 3</a></li>
+    <li><a href="#">Kapitel 4</a></li>
+    <li><a href="#">Kapitel 5</a></li>
+  </ul>
+</nav>
