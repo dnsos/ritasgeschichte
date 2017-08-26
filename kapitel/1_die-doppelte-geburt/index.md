@@ -1,6 +1,7 @@
 ---
 layout: kapitel
 title: Die doppelte Geburt
+category: chapter
 counter: 1
 excerpt: Rico war ihr Bruder. Während die beiden in ihren Eiern heranwuchsen, tauschten sie über Picklaute die großen Pläne aus, die sie für ihr Leben hatten ...
 img:

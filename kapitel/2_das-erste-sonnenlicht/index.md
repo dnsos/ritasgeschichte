@@ -1,6 +1,7 @@
 ---
 layout: kapitel
 title: Das erste Sonnenlicht
+category: chapter
 counter: 2
 excerpt: Eine riesige, laute Halle, drückende Luft und tausende andere Hühner; so begann Ritas Leben ...
 img:
