@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<section class="row chapter-wrapper">
+{% include nav.html %}
+
+<section class="row chapter">
 
   <section class="six columns chapter-title">
     <h4>Kapitel {{page.counter}}</h4>
     <h2>{{page.title}}</h2>
+
+    <img class="chapter-img" src="/{{site.baseurl}}img/{{page.img}}" alt="Test">
+
   </section>
 
   <section class="six columns">
     {{content}}
+
+    <button type="button" name="button">Zurück</button>
+    <button type="button" name="button">Weiter</button>
   </section>
 
 </section>
-
-{% include nav.html %}

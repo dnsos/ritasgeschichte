@@ -13,8 +13,12 @@
 
 /* Chapter */
 .chapter-title {
+  vertical-align: bottom;
+
   h4 {
     font-weight: 400;
+    padding-top: 3rem;
+    border-top: .22rem solid $primaryColor;
   }
 }
 

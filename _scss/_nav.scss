@@ -29,7 +29,7 @@ nav {
   	text-indent: -999em;
   	cursor: pointer; /* make the text accessible to screen readers */
   	position: absolute;
-    transition: background-color .15s ease-in-out;
+    transition: $ease-in-out;
   }
 
   li a:hover {
@@ -41,4 +41,10 @@ nav {
     background-color: $primaryColor;
   }
 
+}
+
+@media (max-width: 750px) {
+  nav {
+    display: none;
+  }
 }

@@ -1,14 +1,14 @@
 <nav>
+  {% assign pages = site.pages | sort:"counter"  %}
   <ul>
-    {% for element in site.pages %}
-      {% if element.category == 'chapter' %}
-        <li><a class="{% if page.url == '{{site.baseurl}}{{element.url}}' %}current{% endif %}" href="{{site.baseurl}}{{element.url}}">{{element.title}}</a></li>
+    {% for p in pages %}
+      {% if p.category == 'chapter' %}
+      <li>
+        <a {% if p.url == page.url %}class="current"{% endif %} href="{{site.baseurl}}{{p.url}}">
+          {{p.title}}
+        </a>
+      </li>
       {% endif %}
     {% endfor %}
   </ul>
 </nav>
-
-<!--
-<li><a class="{% if page.url == '/kapitel/1_die-doppelte-geburt/' %}current{% endif %}" href="{{site.baseurl}}/kapitel/1_die-doppelte-geburt/">Kapitel 1</a></li>
-<li><a class="{% if page.url == '/kapitel/2_das-erste-sonnenlicht/' %}current{% endif %}" href="{{site.baseurl}}/kapitel/2_das-erste-sonnenlicht/">Kapitel 2</a></li>
--->

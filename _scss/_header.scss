@@ -20,14 +20,10 @@ header {
   }
 
   img.red-star {
-    width: 36px;
-    height: auto;
-    padding: 3rem;
-    transition: transform .4s ease-in-out;
-  }
-
-  img.red-star:hover {
-    transform: rotate(72deg);
+    width: auto;
+    height: 24px;
+    margin-right: 1rem;
+    transform: translateY(.4rem);
   }
 
 }

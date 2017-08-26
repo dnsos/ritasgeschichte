@@ -1,6 +1,7 @@
 encoding: utf-8
 highlighter: rouge
 baseurl: /ritasgeschichte
+include: ["_pages"]
 exclude: ['README.md']
 permalink: pretty
 sass:
