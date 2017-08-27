@@ -32,7 +32,7 @@ nav {
     transition: $ease-in-out;
   }
 
-  li a:hover {
+  li a:hover, li a:focus {
     outline: .24rem solid $primaryColor;
     background-color: $primaryColor;
   }

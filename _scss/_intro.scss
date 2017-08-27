@@ -1,0 +1,36 @@
+#home, #about {
+  min-height: 100vh;
+}
+
+#home {
+
+  h1 {
+    text-transform: uppercase;
+  }
+
+  h2 {
+    color: $primaryColor;
+  }
+
+  img.rita-title {
+    width: 100%;
+    height: auto;
+  }
+}
+
+#about {
+  padding-top: 8rem;
+
+  .legal {
+    padding-top: 2.5rem;
+    margin-top: 2.5rem;
+    border-top: $border $primaryColor;
+    font-size: $smallFont;
+  }
+
+  a {
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+}
