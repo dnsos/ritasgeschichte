@@ -19,10 +19,17 @@ header {
   }
 
   img.red-star {
-    width: auto;
-    height: 24px;
-    margin-right: 1rem;
-    transform: translateY(.4rem);
+    display: none;
+  }
+
+  @media (min-width: 750px) {
+    img.red-star {
+      display: block;
+      width: auto;
+      height: 24px;
+      margin-right: 1rem;
+      transform: translateY(.4rem);
+    }
   }
 
 }
