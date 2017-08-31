@@ -4,6 +4,7 @@ title: Die Befreiung
 permalink: "/5/"
 category: chapter
 counter: 5
+previous: "/4/"
 excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
 img: kapitel_5.png
 ---

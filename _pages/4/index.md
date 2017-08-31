@@ -4,6 +4,8 @@ title: Immer weniger Eier
 permalink: "/4/"
 category: chapter
 counter: 4
+previous: "/3/"
+next: "/5/"
 excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
 img: kapitel_4.png
 ---

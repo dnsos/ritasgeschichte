@@ -4,6 +4,8 @@ title: Ein bisschen mehr
 permalink: "/3/"
 category: chapter
 counter: 3
+previous: "/2/"
+next: "/4/"
 excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
 img: kapitel_3.png
 ---
