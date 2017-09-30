@@ -1,35 +1,19 @@
 header {
-  position: fixed;
-
-  ul {
-    list-style-type: none;
-    width: 100%;
-    margin: 0;
-    padding: 3rem;
-
-    li {
-      display: inline;
-
-      p {
-        margin-bottom: 0;
-      }
-
-    }
-
-  }
+  display: inline;
 
   img.red-star {
-    display: none;
+    width: 24px;
+    margin: 3rem;
   }
 
-  @media (min-width: 750px) {
-    img.red-star {
-      display: block;
-      width: auto;
-      height: 24px;
-      margin-right: 1rem;
-      transform: translateY(.4rem);
-    }
+}
+
+@media (min-width: 750px) {
+  header {
+    position: fixed;
+    width: auto;
+    background-color: white;
+    z-index: 3;
   }
 
 }
