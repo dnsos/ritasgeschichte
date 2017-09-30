@@ -1,15 +1,18 @@
 #home, #about {
-  min-height: 100vh;
+  height: 100vh;
 }
 
 #home {
 
   h1 {
     text-transform: uppercase;
+    line-height: 0.5;
+    margin-top: 4rem;
   }
 
   h2 {
     color: $primaryColor;
+    font-weight: 400;
   }
 
   img.rita-title {
@@ -17,10 +20,16 @@
     height: auto;
     margin-bottom: 2.5rem;
   }
+
+  @media (max-width: 750px) {
+    img.rita-title {
+      margin-top: 2.5rem;
+    }
+  }
 }
 
 #about {
-  padding-top: 8rem;
+  padding-top: 0rem;
 
   .legal {
     padding-top: 2.5rem;
@@ -33,5 +42,11 @@
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
+  }
+}
+
+@media (min-width: 750px) {
+  #about {
+    padding-top: 8rem;
   }
 }
