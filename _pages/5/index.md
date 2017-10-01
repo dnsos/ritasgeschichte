@@ -4,7 +4,7 @@ title: Die Befreiung
 permalink: "/5-die-befreiung/"
 category: chapter
 counter: 5
-previous: "/4/"
+previous: "/4-leere-gelege/"
 excerpt: Noch immer lebte Rita mit 3000 anderen Ei-Arbeiterinnen zusammen. Die Enge war ein Problem ...
 img: kapitel_5.png
 ---

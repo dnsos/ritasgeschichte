@@ -4,8 +4,8 @@ title: Kein zurück
 permalink: "/3-kein-zurueck/"
 category: chapter
 counter: 3
-previous: "/2/"
-next: "/4/"
+previous: "/2-das-erste-sonnenlicht/"
+next: "/4-leere-gelege/"
 excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
 img: kapitel_3.png
 ---

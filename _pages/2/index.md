@@ -4,8 +4,8 @@ title: Das erste Sonnenlicht
 permalink: "/2-das-erste-sonnenlicht/"
 category: chapter
 counter: 2
-previous: "/1/"
-next: "/3/"
+previous: "/1-die-doppelte-geburt/"
+next: "/3-kein-zurueck/"
 excerpt: Eine riesige, laute Halle, drückende Luft und tausende andere Hühner; so begann Ritas Leben ...
 img: kapitel_2.png
 ---

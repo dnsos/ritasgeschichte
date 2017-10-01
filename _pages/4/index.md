@@ -4,8 +4,8 @@ title: Leere Gelege
 permalink: "/4-leere-gelege/"
 category: chapter
 counter: 4
-previous: "/3/"
-next: "/5/"
+previous: "/3-kein-zurueck/"
+next: "/5-die-befreiung/"
 excerpt: Doch auch im neuen Stall wandte sich nicht alles zum Guten. Dass Rita auch hier im Jahr 300 Eier legte zehrte an ihrer Gesundheit ...
 img: kapitel_4.png
 ---
