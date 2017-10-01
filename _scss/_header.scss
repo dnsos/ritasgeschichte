@@ -1,9 +1,26 @@
 header {
-  display: inline;
+  display: inline-block;
+  position: relative;
+
+  ul {
+    list-style: none;
+    padding: 3rem;
+
+    li {
+      position: relative;
+      display: inline-block;
+      margin-right: 1rem;
+
+      a {
+        font-weight: 700;
+        text-decoration: none;
+      }
+    }
+  }
 
   img.red-star {
     width: 24px;
-    margin: 3rem;
+    transform: translateY(.4rem);
   }
 
 }

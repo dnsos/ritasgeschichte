@@ -35,12 +35,12 @@
     padding-top: 2.5rem;
     margin-top: 2.5rem;
     border-top: $border $primaryColor;
+    font-style: italic;
     font-size: $smallFont;
   }
 
   a {
     font-weight: 700;
-    text-transform: uppercase;
     text-decoration: none;
   }
 }
