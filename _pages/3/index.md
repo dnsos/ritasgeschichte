@@ -1,7 +1,7 @@
 ---
 layout: kapitel
-title: Ein bisschen mehr
-permalink: "/3/"
+title: Kein zurück
+permalink: "/3-kein-zurueck/"
 category: chapter
 counter: 3
 previous: "/2/"

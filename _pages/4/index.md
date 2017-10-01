@@ -1,12 +1,12 @@
 ---
 layout: kapitel
-title: Immer weniger Eier
-permalink: "/4/"
+title: Leere Gelege
+permalink: "/4-leere-gelege/"
 category: chapter
 counter: 4
 previous: "/3/"
 next: "/5/"
-excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
+excerpt: Doch auch im neuen Stall wandte sich nicht alles zum Guten. Dass Rita auch hier im Jahr 300 Eier legte zehrte an ihrer Gesundheit ...
 img: kapitel_4.png
 ---
 

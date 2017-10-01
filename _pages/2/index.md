@@ -1,7 +1,7 @@
 ---
 layout: kapitel
 title: Das erste Sonnenlicht
-permalink: "/2/"
+permalink: "/2-das-erste-sonnenlicht/"
 category: chapter
 counter: 2
 previous: "/1/"

@@ -1,7 +1,7 @@
 ---
 layout: kapitel
 title: Die doppelte Geburt
-permalink: "/1/"
+permalink: "/1-die-doppelte-geburt/"
 category: chapter
 counter: 1
 next: "/2/"

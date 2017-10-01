@@ -1,11 +1,11 @@
 ---
 layout: kapitel
 title: Die Befreiung
-permalink: "/5/"
+permalink: "/5-die-befreiung/"
 category: chapter
 counter: 5
 previous: "/4/"
-excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von einem Nachbarhof gehört, auf dem Hühner mehr Platz in ihrem heimischen Stall hatten ...
+excerpt: Noch immer lebte Rita mit 3000 anderen Ei-Arbeiterinnen zusammen. Die Enge war ein Problem ...
 img: kapitel_5.png
 ---
 
