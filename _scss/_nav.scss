@@ -10,6 +10,7 @@ nav {
   	margin: 0;
   	list-style: none;
   	cursor: default;
+    transform: translateY(1rem);
   }
 
   li {
@@ -26,15 +27,23 @@ nav {
   	left: 0;
   	width: 100%;
   	height: 100%;
-  	outline: .24rem solid $primaryColor;
+  	// outline: .24rem solid $primaryColor;
   	text-indent: -999em;
   	cursor: pointer;
   	position: absolute;
     transition: $ease-in-out;
   }
 
+  li a:before {
+    content: '';
+     margin: 0; padding: 0;
+     position: absolute; z-index: -1;
+     top: 0; left: 0; right: 0; bottom: 0;
+     outline: .24rem solid $primaryColor;
+  }
+
   li a:hover, li a:focus {
-    outline: .24rem solid $primaryColor;
+    // outline: .24rem solid $primaryColor;
     background-color: $primaryColor;
   }
 
