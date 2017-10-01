@@ -10,7 +10,7 @@ excerpt: Beflügelt durch diesen Erfolg, wollten die Hennen mehr. Sie hatten von
 img: kapitel_4.png
 ---
 
-Doch auch im neuen Stall wandte sich nicht alles zum Guten. Dass Rita auch hier im Jahr 300 Eier legte, zehrte an ihrer Gesundheit._[1]_ Ihr Körper wurde schwächer, auch schmerzende Entzündungen waren keine Seltenheit. Warum nicht die Arbeit etwas entspannter angehen, dachte sich Rita. So begann sie nur hin und wieder mal einige Eier zu legen._[2]_ Dem von Effizienz getriebenen Bauern missfiel dies natürlich. Doch Rita war trickreich und entkam ihm jedes Mal, als er sie fangen und aussortieren wollte.
+Doch auch im neuen Stall wandte sich nicht alles zum Guten. Dass Rita auch hier im Jahr 300 Eier legte zehrte an ihrer Gesundheit._[1]_ Ihr Körper wurde schwächer, auch schmerzende Entzündungen waren keine Seltenheit. Warum nicht die Arbeit etwas entspannter angehen, dachte sich Rita. So begann sie nur hin und wieder mal einige Eier zu legen._[2]_ Dem von Effizienz getriebenen Bauern missfiel dies natürlich. Doch Rita war trickreich und entkam ihm jedes Mal, als er sie fangen und aussortieren wollte.
 
 > [1] Jede Henne in Deutschland legt durchschnittlich knapp 300 Eier pro
 Jahr.
