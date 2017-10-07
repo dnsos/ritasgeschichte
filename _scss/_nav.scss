@@ -1,8 +1,8 @@
 nav {
   position: absolute;
-  width: 100%;
   height: auto;
   float: left;
+  transform: translateY(.24rem);
 
   p {
     display: inline-block;
@@ -14,11 +14,10 @@ nav {
   	margin: 0;
   	list-style: none;
   	cursor: default;
-    transform: translateY(1rem);
   }
 
   ul::before {
-    content: 'Kapitel:';
+    content: 'Kapitel';
     margin-right: 1.5rem;
   }
 
@@ -28,6 +27,7 @@ nav {
   	width: 1rem;
   	height: 1rem;
     margin-right: 1rem;
+    margin-bottom: 0;
   	cursor: pointer;
   }
 
