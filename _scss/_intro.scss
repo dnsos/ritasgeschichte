@@ -1,5 +1,5 @@
 #home, #about {
-  height: 100vh;
+  padding-top: 6rem;
 }
 
 #home {
@@ -11,14 +11,13 @@
   }
 
   h2 {
-    color: $primaryColor;
     font-weight: 400;
   }
 
   img.rita-title {
     width: 100%;
     height: auto;
-    margin-bottom: 2.5rem;
+    margin-bottom: 6rem;
   }
 
   @media (max-width: 750px) {
@@ -29,24 +28,25 @@
 }
 
 #about {
-  padding-top: 0rem;
+  border-top: $border $primaryColor;
 
   .legal {
-    padding-top: 2.5rem;
-    margin-top: 2.5rem;
-    border-top: $border $primaryColor;
-    font-style: italic;
-    font-size: $smallFont;
+    padding-top: 6rem;
+
+    p {
+      font-style: italic;
+      font-size: $smallFont;
+    }
+  }
+
+  @media (min-width: 750px) {
+    .legal {
+      padding-top: 0;
+    }
   }
 
   a {
     font-weight: 700;
     text-decoration: none;
-  }
-}
-
-@media (min-width: 750px) {
-  #about {
-    padding-top: 8rem;
   }
 }

@@ -1,5 +1,5 @@
 ---
-layout: kapitel
+layout: chapter
 title: Die Befreiung
 permalink: "/5-die-befreiung/"
 category: chapter

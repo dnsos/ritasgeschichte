@@ -1,5 +1,5 @@
 ---
-layout: kapitel
+layout: chapter
 title: Das erste Sonnenlicht
 permalink: "/2-das-erste-sonnenlicht/"
 category: chapter

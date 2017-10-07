@@ -1,5 +1,5 @@
 ---
-layout: kapitel
+layout: chapter
 title: Kein zurück
 permalink: "/3-kein-zurueck/"
 category: chapter

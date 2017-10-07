@@ -1,5 +1,5 @@
 ---
-layout: kapitel
+layout: chapter
 title: Die doppelte Geburt
 permalink: "/1-die-doppelte-geburt/"
 category: chapter

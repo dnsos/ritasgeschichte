@@ -1,5 +1,5 @@
 ---
-layout: kapitel
+layout: chapter
 title: Leere Gelege
 permalink: "/4-leere-gelege/"
 category: chapter
