@@ -31,5 +31,9 @@
 
 #info {
   padding-top: 6rem;
-  border-top: $border $primaryColor;
+
+  a {
+    font-weight: 700;
+    text-decoration: none;
+  }
 }
