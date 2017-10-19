@@ -32,24 +32,4 @@
 #info {
   padding-top: 6rem;
   border-top: $border $primaryColor;
-
-  .legal {
-    padding-top: 6rem;
-
-    p {
-      font-style: italic;
-      font-size: $smallFont;
-    }
-  }
-
-  @media (min-width: 750px) {
-    .legal {
-      padding-top: 0;
-    }
-  }
-
-  a {
-    font-weight: 700;
-    text-decoration: none;
-  }
 }
