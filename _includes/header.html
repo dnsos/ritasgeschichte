@@ -1,15 +1,17 @@
-<header class="row">
+<section class="container">
 
-  <section class="six columns">
-    <ul>
-      <li><img class="red-star" src="{{site.baseurl}}/img/red-star.svg" alt="Roter Stern"></li>
-      <li><a href="{{site.baseurl}}#info">INFO</a></li>
-      <li><a href="{{site.baseurl}}/ausstellungen/">AUSSTELLUNGEN</a></li>
-    </ul>
+  <section class="row nav-container">
+    <section class="six columns">
+      <ul>
+        <li><img class="red-star" src="{{site.baseurl}}/img/red-star.svg" alt="Roter Stern"></li>
+        <li><a href="{{site.baseurl}}#info">INFO</a></li>
+        <li><a href="{{site.baseurl}}/ausstellungen/">AUSSTELLUNGEN</a></li>
+      </ul>
+    </section>
+
+    <section class="six columns">
+      {% include nav.html %}
+    </section>
   </section>
 
-  <section class="six columns">
-    {% include nav.html %}
-  </section>
-
-</header>
+</section>

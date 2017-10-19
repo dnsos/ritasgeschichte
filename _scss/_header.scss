@@ -1,5 +1,16 @@
 header {
-  margin-bottom: 6rem;
+  min-width: 100vw;
+  height: auto;
+  z-index: 99;
+
+  .container {
+    padding-bottom: 0;
+  }
+
+  .nav-container {
+    height: auto;
+    background-color: white;
+  }
 
   ul {
     list-style: none;
@@ -24,11 +35,24 @@ header {
 
 }
 
-@media (min-width: 750px) {
+@media (min-width: 550px) {
+
   header {
+    height: 5rem;
     position: fixed;
-    top: 3rem;
-    left: 3rem;
+    top: 0;
+    left: 0;
+
+    .container {
+      padding: 0;
+    }
+  }
+
+  .nav-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 3rem 3rem 0 3rem;
     width: 100%;
   }
 
