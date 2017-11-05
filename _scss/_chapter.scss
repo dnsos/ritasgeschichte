@@ -1,5 +1,5 @@
 .chapter {
-  margin-top: 3rem;
+  margin-top: 0;
 
   h4 {
     font-weight: 400;
@@ -28,4 +28,10 @@
     }
   }
 
+}
+
+@media (min-width: 550px) {
+  .chapter {
+    margin-top: 3rem;
+  }
 }

@@ -72,3 +72,24 @@ nav {
     }
   }
 }
+
+.nav-large-screens {
+ display: none;
+}
+
+@media (min-width: 550px) {
+  .nav-large-screens {
+    display: block;
+  }
+}
+
+.nav-small-screens {
+ display: block;
+ position: relative;
+}
+
+@media (min-width: 550px) {
+  .nav-small-screens {
+    display: none;
+  }
+}

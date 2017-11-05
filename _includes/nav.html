@@ -1,4 +1,4 @@
-<nav>
+<nav class="{{include.navclass}}">
   {% assign pages = site.pages | sort:"counter"  %}
   <ul>
     {% for p in pages %}
