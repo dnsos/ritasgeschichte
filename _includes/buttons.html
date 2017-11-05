@@ -1,6 +1,8 @@
-{% if page.previous %}
-  <a href="{{site.baseurl}}{{page.previous}}"><button type="button" name="button">Zurück</button></a>
-{% endif %}
-{% if page.next %}
-  <a href="{{site.baseurl}}{{page.next}}"><button type="button" name="button">{% if page.next == '/ausstellungen/' %}RITA in Ausstellungen{% else %}Weiter{% endif %}</button></a>
-{% endif %}
+<section>
+  {% if page.previous %}
+    <a href="{{site.baseurl}}{{page.previous}}"><button type="button" name="button">Zurück</button></a>
+  {% endif %}
+  {% if page.next %}
+    <a href="{{site.baseurl}}{{page.next}}"><button type="button" name="button">{% if page.next == '/ausstellungen/' %}RITA in Ausstellungen{% else %}Weiter{% endif %}</button></a>
+  {% endif %}
+</section>
