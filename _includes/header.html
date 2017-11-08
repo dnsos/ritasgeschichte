@@ -4,7 +4,15 @@
     <section class="six columns">
       <ul>
         <li><img class="red-star" src="{{site.baseurl}}/img/red-star.svg" alt="Roter Stern"></li>
-        <li><a href="{{site.baseurl}}#info">INFO</a></li>
+        <li><a href="{{site.baseurl}}/#info">INFO</a></li>
+
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li>
+            <a href="{{page.url}}" class="{{page.lang}}">{{page.lang}}</a>
+          </li>
+        {% endfor %}
+
       </ul>
     </section>
 

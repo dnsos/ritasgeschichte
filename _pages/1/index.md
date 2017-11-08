@@ -1,5 +1,7 @@
 ---
 layout: chapter
+lang: de
+ref: chapter1
 title: Die doppelte Geburt
 permalink: "/1-die-doppelte-geburt/"
 category: chapter

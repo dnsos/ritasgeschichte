@@ -1,5 +1,7 @@
 ---
 layout: chapter
+lang: de
+ref: chapter3
 title: Kein zurück
 permalink: "/3-kein-zurueck/"
 category: chapter

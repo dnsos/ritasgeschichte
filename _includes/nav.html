@@ -1,5 +1,5 @@
 <nav class="{{include.navclass}}">
-  {% assign pages = site.pages | sort:"counter"  %}
+  {% assign pages = site.pages | where:"lang", page.lang | sort:"counter" %}
   <ul>
     {% for p in pages %}
       {% if p.category == 'chapter' %}

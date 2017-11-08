@@ -1,5 +1,7 @@
 ---
 layout: chapter
+lang: de
+ref: chapter4
 title: Leere Gelege
 permalink: "/4-leere-gelege/"
 category: chapter
