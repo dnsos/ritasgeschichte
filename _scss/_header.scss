@@ -23,7 +23,24 @@ header {
 
       a {
         font-weight: 700;
+        text-transform: uppercase;
         text-decoration: none;
+      }
+    }
+
+    .lang {
+      margin-right: .5rem;
+
+      a {
+        color: lighten($baseColor, 60%);
+      }
+
+      a:hover {
+        color: $primaryColor;
+      }
+
+      a.lang-current {
+        color: $primaryColor;
       }
     }
   }
@@ -36,7 +53,6 @@ header {
 }
 
 @media (min-width: 550px) {
-
   header {
     height: 5rem;
     position: fixed;

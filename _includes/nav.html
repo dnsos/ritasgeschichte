@@ -1,4 +1,5 @@
 <nav class="{{include.navclass}}">
+  <p>{{site.data.languages.locales[page.lang].chapter}}</p>
   {% assign pages = site.pages | where:"lang", page.lang | sort:"counter" %}
   <ul>
     {% for p in pages %}

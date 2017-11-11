@@ -7,9 +7,9 @@
         <li><a href="{{site.baseurl}}/#info">INFO</a></li>
 
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{page.url}}" class="{{page.lang}}">{{page.lang}}</a>
+        {% for p in pages %}
+          <li class="lang">
+            <a href="{{p.url}}" {% if p.lang == page.lang %}class="lang-current" {% endif %}>{{p.lang}}</a>
           </li>
         {% endfor %}
 
