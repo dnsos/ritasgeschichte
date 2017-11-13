@@ -3,11 +3,11 @@ layout: chapter
 lang: en
 ref: chapter2
 title: The first sunlight
-permalink: "/2-the-first-sunlight/"
+permalink: "/en/2-the-first-sunlight/"
 category: chapter
 counter: 2
-previous: "/1-the-double-birth/"
-next: "/3-no-way-back/"
+previous: "/en/1-the-double-birth/"
+next: "/en/3-no-way-back/"
 excerpt: A huge, noisy hall, stifling air and thousands of other egg-workers; that's how Rita's life began ...
 img: kapitel_2.png
 ---

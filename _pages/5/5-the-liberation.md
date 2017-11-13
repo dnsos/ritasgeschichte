@@ -3,11 +3,11 @@ layout: chapter
 lang: en
 ref: chapter5
 title: The liberation
-permalink: "/5-the-liberation/"
+permalink: "/en/5-the-liberation/"
 category: chapter
 counter: 5
-previous: "/4-empty-clutches/"
-next: "/exhibitions/"
+previous: "/en/4-empty-clutches/"
+next: "/en/exhibitions/"
 excerpt: Rita still lived together with 3000 other egg-workers. The crampdness was a problem ...
 img: kapitel_5.png
 ---

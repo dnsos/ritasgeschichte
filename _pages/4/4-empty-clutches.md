@@ -3,11 +3,11 @@ layout: chapter
 lang: en
 ref: chapter4
 title: Empty clutches
-permalink: "/4-empty-clutches/"
+permalink: "/en/4-empty-clutches/"
 category: chapter
 counter: 4
-previous: "/3-no-way-back/"
-next: "/5-the-liberation/"
+previous: "/en/3-no-way-back/"
+next: "/en/5-the-liberation/"
 excerpt: But even in the new stable not everything turned out well. The fact that Rita still had to lay300 eggs a year fed on her health ...
 img: kapitel_4.png
 ---

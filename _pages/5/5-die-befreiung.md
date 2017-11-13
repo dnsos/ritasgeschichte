@@ -7,7 +7,7 @@ permalink: "/5-die-befreiung/"
 category: chapter
 counter: 5
 previous: "/4-leere-gelege/"
-next: "/exhibitions/"
+next: "/ausstellungen/"
 excerpt: Noch immer lebte Rita mit 3000 anderen Ei-Arbeiterinnen zusammen. Die Enge war ein Problem ...
 img: kapitel_5.png
 ---

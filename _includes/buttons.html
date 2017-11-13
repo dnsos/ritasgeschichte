@@ -3,6 +3,6 @@
     <a href="{{site.baseurl}}{{page.previous}}"><button type="button" name="button">{{site.data.languages.locales[page.lang].previous}}</button></a>
   {% endif %}
   {% if page.next %}
-    <a href="{{site.baseurl}}{{page.next}}"><button type="button" name="button">{% if page.next == '/exhibitions/' %}{{site.data.languages.locales[page.lang].exhibitions}}{% else %}{{site.data.languages.locales[page.lang].next}}{% endif %}</button></a>
+    <a href="{{site.baseurl}}{{page.next}}"><button type="button" name="button">{% if page.ref == 'chapter5' %}{{site.data.languages.locales[page.lang].exhibitions}}{% else %}{{site.data.languages.locales[page.lang].next}}{% endif %}</button></a>
   {% endif %}
 </section>

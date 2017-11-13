@@ -4,12 +4,12 @@
     <section class="six columns">
       <ul>
         <li><img class="red-star" src="{{site.baseurl}}/img/red-star.svg" alt="Roter Stern"></li>
-        <li><a href="{{site.baseurl}}/#info">INFO</a></li>
+        <li><a href="{{site.baseurl}}{% if page.lang == "en" %}/en{% endif %}/#info">INFO</a></li>
 
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for p in pages %}
           <li class="lang">
-            <a href="{{p.url}}" {% if p.lang == page.lang %}class="lang-current" {% endif %}>{{p.lang}}</a>
+            <a href="{{p.url}}" {% if p.lang == page.lang %}class="lang-current"{% endif %}>{{p.lang}}</a>
           </li>
         {% endfor %}
 

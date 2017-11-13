@@ -3,11 +3,11 @@ layout: chapter
 lang: en
 ref: chapter3
 title: No way back
-permalink: "/3-no-way-back/"
+permalink: "/en/3-no-way-back/"
 category: chapter
 counter: 3
-previous: "/2-the-first-sunlight/"
-next: "/4-empty-clutches/"
+previous: "/en/2-the-first-sunlight/"
+next: "/en/4-empty-clutches/"
 excerpt: Encouraged by this success, the hens wanted more. They had heard of a neighboring farm on which hens had more space in their local stable ...
 img: kapitel_3.png
 ---

@@ -3,10 +3,10 @@ layout: chapter
 lang: en
 ref: chapter1
 title: The double birth
-permalink: "/1-the-double-birth/"
+permalink: "/en/1-the-double-birth/"
 category: chapter
 counter: 1
-next: "/2-the-first-sunlight/"
+next: "/en/2-the-first-sunlight/"
 excerpt: Rico was her brother. As they grew up in their eggs, they exchanged the big plans they had for their lives with picking sounds ...
 img: kapitel_1.png
 ---
