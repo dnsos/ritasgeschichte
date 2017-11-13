@@ -6,6 +6,7 @@ nav {
 
   p {
     display: inline-block;
+    margin-right: 1.5rem;
     margin-bottom: 0;
   }
 
@@ -14,11 +15,6 @@ nav {
   	margin: 0;
   	list-style: none;
   	cursor: default;
-  }
-
-  ul::before {
-    content: 'Kapitel';
-    margin-right: 1.5rem;
   }
 
   li {
@@ -36,7 +32,6 @@ nav {
   	left: 0;
   	width: 100%;
   	height: 100%;
-  	// outline: .24rem solid $primaryColor;
   	text-indent: -999em;
   	cursor: pointer;
   	position: absolute;

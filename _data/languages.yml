@@ -1,0 +1,19 @@
+locales:
+  de:
+    chapter: "Kapitel"
+    previous: "Zurück"
+    next: "Weiter"
+    exhibitions: "RITA in Ausstellungen"
+    non-commercial: "Das Projekt verfolgt keinerlei kommerzielle Zwecke."
+    source-code: "Quellcode dieser Website verfügbar bei"
+    content: "Inhalte, insbesondere Texte und Illustrationen, verfügbar als Creative Commons"
+    stand: "Stand: Oktober 2017"
+  en:
+    chapter: "Chapter"
+    previous: "Previous"
+    next: "Next"
+    exhibitions: "RITA in exhibitions"
+    non-commercial: "The project has no commercial purpose."
+    source-code: "Source code of this website available at"
+    content: "Content, in particular texts and illustrations, are available as Creative Commons"
+    stand: "Stand: October 2017"

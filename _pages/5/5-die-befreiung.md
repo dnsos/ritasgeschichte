@@ -1,5 +1,7 @@
 ---
 layout: chapter
+lang: de
+ref: chapter5
 title: Die Befreiung
 permalink: "/5-die-befreiung/"
 category: chapter
