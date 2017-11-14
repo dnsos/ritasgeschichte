@@ -12,9 +12,9 @@ excerpt: But even in the new stable not everything turned out well. The fact tha
 img: kapitel_4.png
 ---
 
-But even in the new stable not everything turned out well. The fact that Rita still had to lay300 eggs a year fed on her health._[1]_ Her body became weaker, painful inflammations were not uncommon. Why not work more relaxed, Rita thought. So she started to only lay some eggs every now and then._[2]_ Naturally, the efficiency driven farmer was not amused. But Rita was tricky and escaped every time he wanted to catch and sort her out.
+But even in the new stable not everything turned out well. The fact that Rita still had to lay 300 eggs a year fed on her health._[1]_ Her body became weaker, painful inflammations were not uncommon. Why not work more relaxed, Rita thought. So she started to lay some eggs just every now and then._[2]_ Naturally, the efficiency driven farmer was not amused. But Rita was tricky and escaped every time he wanted to catch her and sort her out.
 
-> [1] Every laying hen in Germany lays on average almost 300 eggs per year.
+> [1] On average every laying hen in Germany lays almost 300 eggs per year.
 _See: Statistisches Bundesamt. Legehennen und Eiererzeugung von 2005 bis 2014._
 
 > [2] Wild jungle fowls breed only two to three times a year. Their nests usually consist of four to twelve eggs which are incubated between 18 and 21 days.
